@@ -1,0 +1,22 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mohsin/chisel-tutorial/src/test/scala/riscv/JalrrTests.scala:4:21: not found: type Jalrr[0m
+[0m[[0m[31merror[0m] [0m[0mclass JalrrTests(c: Jalrr) extends PeekPokeTester(c) {[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mohsin/chisel-tutorial/src/test/scala/riscv/JalrrTests.scala:4:36: too many arguments for constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass JalrrTests(c: Jalrr) extends PeekPokeTester(c) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mohsin/chisel-tutorial/src/test/scala/riscv/JalrrTests.scala:5:2: not found: value poke[0m
+[0m[[0m[31merror[0m] [0m[0m	poke(c.io.input1, 1)[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mohsin/chisel-tutorial/src/test/scala/riscv/JalrrTests.scala:6:2: not found: value poke[0m
+[0m[[0m[31merror[0m] [0m[0m	poke(c.io.input2, 1)[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mohsin/chisel-tutorial/src/test/scala/riscv/JalrrTests.scala:7:2: not found: value step[0m
+[0m[[0m[31merror[0m] [0m[0m	step(1)[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mohsin/chisel-tutorial/src/test/scala/riscv/JalrrTests.scala:8:2: not found: value expect[0m
+[0m[[0m[31merror[0m] [0m[0m	expect(c.io.out, 2)[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mohsin/chisel-tutorial/src/test/scala/riscv/Launcher.scala:96:22: not found: type JalrrTests[0m
+[0m[[0m[31merror[0m] [0m[0m          (c) => new JalrrTests(c)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m

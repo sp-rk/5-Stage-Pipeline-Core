@@ -1,0 +1,10 @@
+[
+  {
+    "class":"firrtl.annotations.LoadMemoryAnnotation",
+    "target":"Top.Instruction.mem",
+    "fileName":"/home/mohsin/inst",
+    "hexOrBinary":{
+      "name":"h"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+test:run-main riscv.Launcher Instruction
+test:run-Main riscv.Launcher Instruction
+test:runMain riscv.Launcher Instruction
+test:runMain riscv.Launcher Instruction --backend-name verilator
+test:runMain riscv.Launcher Instruction
+test:runMain riscv.Launcher Instruction --backend-name verilator
+test:runMain riscv.Launcher Instruction
+test:runMain riscv.Launcher Instruction --backend-name verilator
+test:runMain riscv.Launcher Top
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher Top
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher Jalr
+test:runMain riscv.Launcher Jalrr
+test:runMain riscv.Launcher Jalr
+test:runMain riscv.Launcher Jalrr
+test:runMain riscv.Launcher Memory
+test:runMain riscv.Launcher Memory --backend-name verilator
+test:runMain riscv.Launcher Memory
+test:runMain riscv.Launcher Memory --backend-name verilator
+test:runMain riscv.Launcher Top
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher Top
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher AluTests
+test:runMain riscv.Launcher Alu
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher Memory
+test:runMain riscv.Launcher Top
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher Top
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher Top
+test:runMain riscv.Launcher Top --backend-name verilator
+test:runMain riscv.Launcher Top
